@@ -1,0 +1,6 @@
+Analysis made
+Originally there are 3 different species of Iris: Virginica,Setosa and Versicolour,
+but there are four clusters made which could imply that there could be a sub-species as well.
+The four variables has been condensed to two variables or components and we could clearly see a reduction in dimensions.  
+The inter cluster variation is high while the intra cluster variation is low. 
+The entities have been arranged into four (optimum number) clusters accordingly.
