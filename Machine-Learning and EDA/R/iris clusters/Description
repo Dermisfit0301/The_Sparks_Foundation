@@ -1,0 +1,2 @@
+This is based on the famous iris flowers dataset where we will be clustering flowers of various IDs into distinct clusters using K-means clustering which is an unsupervised algorithm. 
+The clustering algorithm will classify the species into distinct clusters using variables like petal length and width and sepal length and width. 
