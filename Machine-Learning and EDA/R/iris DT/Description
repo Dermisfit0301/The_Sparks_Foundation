@@ -1,0 +1,3 @@
+#TSF Internship task 6: Supervised ML Algorithm: Decision Tree
+In this task we are going to use the Iris flowers dataset to create a Decision Tree algorithm that will classify flowers into their respective species.
+The Decision Tree uses Gini index and entropy to calculation information gain. The variable that gives the most information will be used as the splitting node to classify flowers.
